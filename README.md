@@ -1,0 +1,2 @@
+# LiObjectStorage
+Object storage node
